@@ -1,3 +1,6 @@
+# Disclaimer
+Fork from mzimmerman/tt. I added formatting constants, changed the command line handline and added unix timestamp handling.
+
 # Time Translator
 Command line time parser to convert from/to different date formats and timezones specified with the Go "reference time"
 
